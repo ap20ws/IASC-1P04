@@ -1,2 +1,7 @@
-# IASC-1P04
-Brock University IASC-1P04
+# IASC-1P04 | Auryn Parmar
+
+Welcome to my website for my twine game, created for the course IASC-1P04 at Brock University.
+
+## Playtest
+
+Playtest my game [here]()
