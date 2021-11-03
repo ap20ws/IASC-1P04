@@ -30,3 +30,7 @@ Music promoted by https://www.chosic.com/free-music/all/
 
 "visitors" by the-photon-trap is licensed with CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/
 
+---
+
+
+"Argentina - Buenos Aires 020 - abandoned buildings abound" by mckaysavage is licensed with CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/
