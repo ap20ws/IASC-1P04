@@ -8,4 +8,4 @@ Playtest my game [here](https://raw.githubusercontent.com/ap20ws/IASC-1P04/main/
 
 ## Prototype
 
-Play my Prototype [here](Prototype/The Accident.html)
+Play my Prototype [here](Prototype/The Accident Prototype.html)
