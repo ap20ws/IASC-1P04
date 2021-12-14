@@ -63,3 +63,8 @@ https://mixkit.co/free-sound-effects/thud/
 
 
 https://bigsoundbank.com/detail-0505-car-interior-80km-h.html
+
+
+---
+
+Photo by Edward Jenner from Pexels https://www.pexels.com/photo/man-woman-technology-looking-4031321/
