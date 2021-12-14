@@ -4,7 +4,7 @@ Welcome to my website for my twine game, created for the course IASC-1P04 at Bro
 
 ## Prototype
 
-Play my Prototype [here](Prototype/The Accident.html)
+Play my Prototype [here](Prototype/The Accident (5).html)
 
 ## Playtest
 
